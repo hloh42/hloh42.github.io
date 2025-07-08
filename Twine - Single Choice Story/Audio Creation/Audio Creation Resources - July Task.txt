@@ -1,7 +1,41 @@
 One bgm and 5 sfx
 
-https://www.youtube.com/watch?v=APljvOxetas Zectro : A Guide to Making Lo-fi
+https://www.youtube.com/watch?v=APljvOxetas Zectro : A Guide to Making Lo-fi //Useful
 
 https://www.youtube.com/watch?v=dMkTdYmOgiQ Zectro : A Guide to Making Video Game Music
 
 https://www.youtube.com/watch?v=5hzsUop5O0w Music TAETRO : Production Process, Lofi Track Breakdown, & Reviewing Your Music 
+
+
+
+Day 2 - continue exploring audiotool DAW : 
+
+Refer to 3rd July Entry
+To continue : https://studio.audiotool.com/#/9l38906n90
+
+AudioTool Exploration : 
+https://www.youtube.com/watch?v=KLVtMZY5Gog Music Theory Help 101 : Audiotool 5: Drum Pattern Function Pt. 2
+
+https://www.youtube.com/watch?v=Ly7unhnfEiA Alex Rome : How to make insanely good chord progressions
+https://www.youtube.com/watch?v=U5QucXeCiwU Alex Rome : How to Make Emotional Chord Patterns (10 Ways)
+https://www.youtube.com/watch?v=GdJQ4UkQ1Do Alex Rome : 5 Useful EDM Chord Patterns 
+https://www.youtube.com/watch?v=IH-zpS7gxxg Alex Rome : A Cheatcode for Better Arrangements: The Two Loop Rule //watched , useful interesting , try to apply.
+https://www.youtube.com/watch?v=p1-WmITJqBk Alex Rome : How To Make Any Sound From Scratch (escape the preset trap) (Very inspired by this video)
+
+To emulate : similar style of beats for bgm.
+https://www.youtube.com/watch?v=e6BrZqqdP7Y World Music Panorama : Lo-Fi Skyline – Chillhop Instrumental Album | Mellow Beats, Vinyl Vibes & Study Grooves 
+
+Day 3 - Inspired to make own sounds using synthesizers ,main melody and 2.5 min full song by 21 July 2025
+
+Day 4 - 
+
+https://www.youtube.com/watch?v=k_WPatokREo Matt Makes Music : How to Make Lofi in the EASIEST Way Possible: TUTORIAL (No Samples or Music Theory Needed) 
+
+Installed LMMS on arch vm thanks to Chi Woon's Help.
+
+https://www.youtube.com/watch?v=2HM88aTKAuQ Beat Maker School : LMMS Guide to using circle of fifths
+
+https://www.youtube.com/watch?v=JwnxNjz3xxE Alex Rome : 3 Lofi Drum Patterns
+
+Day 5 - 
+https://www.youtube.com/watch?v=-m4oRELipM4 Stefan Guy : Making Lo-Fi - Chord Progressions, Sounds & Effects //To Emulate
