@@ -1,0 +1,156 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #303030;
+    font-family: OpenSans, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes booting {
+    0% {
+        opacity: 1.0;
+    }
+    100% {
+        opacity: 0.4;
+    }
+}
+
+.booting {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    pointer-events: none;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.booting div {
+    top: 50%;
+    left: 50%;
+    width: 48px;
+    height: 48px;
+    transform: translate(-24px, -24px);
+    position: absolute;
+}
+
+.booting svg.logo {
+    width: 48px;
+    height: 48px;
+}
+
+.booting svg.logo.javascript {
+    animation: booting 1s 4 ease-in-out alternate;
+}
+
+.booting label {
+    color: #666;
+    margin: 8px 0 0 0;
+    font-size: 12px;
+    white-space: nowrap;
+    bottom: -40px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+body.body-boot-error {
+    background-color: #fff;
+}
+
+div.boot-error {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    border-radius: 3px;
+    padding: 40px;
+    max-width: 550px;
+}
+
+div.boot-error.hidden {
+    display: none;
+}
+
+div.boot-error > header {
+    display: flex;
+    flex-direction: column;
+}
+
+div.boot-error > header > div.icon-headline {
+    display: flex;
+    flex: 1 0 28px;
+    align-items: center;
+    margin: 0 0 8px 0;
+}
+
+div.boot-error > header > div.icon-headline > svg {
+    flex: 0 0 16px;
+    width: 16px;
+    height: 16px;
+    margin: 0 8px 0 0;
+    fill: #4F4F4F;
+}
+
+div.boot-error > header > div.icon-headline > h1 {
+    margin: 0;
+    padding: 0;
+    color: #4F4F4F;
+    font-size: 20px;
+    line-height: 2.3;
+    letter-spacing: 0.2px;
+    padding-top: 4px;
+}
+
+div.boot-error > header > h2 {
+    padding: 0;
+    margin: 0 0 26px 0;
+    color: #2A2A2A;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.7;
+}
+
+div.boot-error > section {
+    font-size: 13px;
+    font-weight: 600;
+    color: #2A2A2A;
+    margin-bottom: 8px;
+}
+
+.boot-error header a,
+.boot-error section a {
+    color: #2A2A2A;
+}
+
+.boot-error > section {
+    font-size: 13px;
+    font-weight: 600;
+    color: #2A2A2A;
+    margin-bottom: 8px;
+}
+
+.boot-error > section > p {
+    font-weight: 500;
+    padding: 0;
+    margin: 0 0 11px 0;
+}
+
+noscript {
+    max-width: 500px;
+    z-index: 99999;
+    line-height: 1.7;
+    padding: 20px;
+}
+
+noscript h1 {
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+noscript a {
+    color: var(--SecondaryColor);
+}
+noscript a:hover {
+    color: #fff;
+}
