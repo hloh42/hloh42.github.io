@@ -53,3 +53,5 @@ Which way to go?
 			Ending C  -> BT4W Ending
 			Ending D
 			Ending E
+			
+COUNT : 
