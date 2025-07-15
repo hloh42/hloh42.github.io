@@ -166,4 +166,273 @@ SPACE FROG landed his ship on the small planet and stepped out.
 The blue ground was hard and <rocky.>
 rocky.
 
+Screen 22 : Art - Sheep Protrait
+
+SPACE FROG trekked across the pale blue planet and found a little field of white grass.
+
+In the middle of the field was a sheep.
+
+Screen 23 : Nothing
+
+SPACE FROG stared.
+
+The sheep stared back.
+
+"Er... Hello," said SPACE FROG. "I'm looking for a star."
+
 <(It hurt SPACE FROG's feet...)>
+
+Screen 24 : Nothing 
+
+"BAAAAAAAA," said the sheep.
+
+SPACE FROG did not <understand> the sheep.
+<(If only he had paid better attention in sheep class.)>
+
+Screen 25 : Art - Question Mark
+
+SPACE FROG wasn't sure what to do. He didn't speak sheep.
+
+Could he communicate with the sheep in some other way?
+
+OFFER SOME SPACE FOOD
+BAA BACK
+
+Screen 26 : Art - Space Food
+SPACE FROG opened the <packet> of space food.
+
+<(Inside it was a dry block of something that could hardly be called food, but people couldn't be picky about food in space.)>
+
+Screen 27 : Nothing
+"Are you hungry...?"
+
+Even if SPACE FROG didn't speak sheep, he knew that everyone liked to eat!
+
+And he was right - the sheep only took one look at the space food before eating it whole, wrapper and all.
+
+Screen 28 : Nothing
+SPACE FROG gasped. "You can't eat the wrapper! It's not food!"
+
+But the damage was done. The sheep had already finished eating.
+
+Then, SPACE FROG heard a PLOP.
+
+Screen 29 : Pink Star
+SPACE FROG squinted. On the grass behind the sheep, he could see something sparkly...
+
+A big, bright STAR!
+
+Screen 30 : Nothing
+"Is... Is this for me?" SPACE FROG asked the sheep.
+
+"BAAAAAAAA," said the sheep. It sounded like a "YES" to SPACE FROG!
+
+"Thank you!" replied SPACE FROG, but the sheep had already trotted away.
+
+Screen 31 : Art - Bag
+SPACE FROG managed to stuff the big star into his satchel.
+
+It made for a tight fit inside his little spaceship, but he steered his ship back down to Earth.
+
+Screen 32 : Nothing 
+After he landed, SPACE FROG did not go home.
+
+No, he had somewhere else he had to go first.
+
+He checked that the star was still safely in his satchel, and then he headed not for his house, but the one next door.
+
+Screen 33 : Art - Earth Cat
+SPACE FROG rang the doorbell. He didn't have to wait long before his best friend <EARTH CAT> answered the door.
+<(His name was actually Jay. Nobody called him EARTH CAT but SPACE FROG.)>
+
+Screen 34 : Nothing 
+"Hi, SPACE FROG! Sorry, I have to work today, so I can't play with you," said EARTH CAT with a frown.
+
+SPACE FROG shook his head. "It's OK! I'm just here to give you something."
+
+EARTH CAT looked confused. "For me...? It's not my birthday or anything though..."
+
+Screen 35 : Pink Star
+SPACE FROG took the star out from his satchel. It glowed bright in his hands.
+
+"I know you've been working late into the night recently, so I wanted to get you a star for light!"
+
+Screen 36 : Hugging Frog - Earth Cat front 2 arms surrounding, Frog back.
+For a moment, EARTH CAT didn't say anything.
+
+Then, he gave SPACE FROG a hug. 
+
+Screen 37 : Nothing
+"Thank you, SPACE FROG. That's very kind of you." EARTH CAT took the star with a smile.
+
+SPACE FROG smiled back. "No problem, EARTH CAT!"
+
+SPACE FROG gave EARTH CAT a wave before heading back home.
+
+Screen 38 : Nothing
+After SPACE FROG got back, he put away his satchel and lied down in bed.
+
+It had been a <good day>...
+<He'd gone to space, found a bright and sparkly star, and met up with his best friend, EARTH CAT.>
+
+Screen 39 : Frog thinking of earth cat
+"I hope EARTH CAT will have time to play with me soon!"
+
+SPACE FROG closed his eyes and dreamt of the fun adventures he and EARTH CAT could have tomorrow.
+
+THE END
+
+2nd Planet ==================================================================================
+Screen 40 : Nothing
+SPACE FROG flew his spaceship to the big planet and made a landing.
+
+The red soil was soft but <clumpy.>
+
+<(It would definitely be a pain to clean after...)>
+
+Screen 41 : Art - Bear Portrait
+SPACE had only walked for a short while when he came across a little festival stall.
+
+Inside the stall stood a surly-looking bear.
+
+Screen 42 : Nothing
+"Hello!" said SPACE FROG, his eyes wide. "I love festivals! Can I play at your stall?"
+
+The bear pointed at the sign next to her.
+
+It read, "FIVE COINS FOR ONE PLAY."
+
+Screen 43 : Art - Question Mark
+Five coins was a lot of money...
+
+Did SPACE FROG even have enough?
+
+OFFER SOME SPACE FOOD
+ASK TO PLAY FOR FREE
+
+Screen 44 : Art - Space Food 
+"Could I trade you for some space food...?" suggested SPACE FROG.
+
+The bear pointed at the sign. "Don't pay, don't play."
+
+Screen 45 : Nothing
+Can't I pay with space food?" asked SPACE FROG.
+
+The bear looked at SPACE FROG. "Can't you read? It's five coins for one play."
+
+SPACE FROG looked at his space food. It didn't say how much it cost.
+
+Screen 46 : Nothing 
+The bear looked at SPACE FROG for a bit longer and then sighed.
+
+"Fine. I'll trade you for a constellation prize... Just stop looking so mopey."
+
+The bear fumbled around behind the stall.
+
+Screen 47 : Nothing
+SPACE FROG was confused. "Constellation prize? Don't you mean consolation prize?"
+
+"I mean what I said," replied the bear, and she stuck out her paw.
+
+In her paw was a little shiny something...
+
+Screen 48 : Art - Blue Star
+"A star!" gasped SPACE FROG. Sure, it wasn't too bright or sparkly, but still -
+
+"Now go away," said the bear. "You're getting in the way of my business."
+
+Screen 49 : Art - Satchel
+PACE FROG put the little star inside his satchel.
+
+Then, he squeezed into his spaceship and flew back down to Earth.
+
+Screen 50 : Nothing
+After SPACE FROG landed, he went back home and took the star out of his satchel.
+
+It was very small for a <star>, and not very bright or sparkly.
+<(Honestly, you could call it a glowy rock and very few people would have known the difference.)>
+
+Screen 51 : Art - Frog thinking of star
+But he had a nice little souvenir and a good story to go with it!
+
+SPACE FROG could go looking for brighter and sparklier stars tomorrow.
+
+THE END
+
+Screen 52 : Nothing
+SPACE FROG steered his spaceship to the lonely little planet.
+
+It was <dark.> He could hardly see a thing.
+
+<(SPACE FROG wasn't scared of the dark... Really, he wasn't!)>
+
+Screen 53 : Art - Rabbit Crying
+SPACE FROG journeyed across the dark planet until he found a rabbit standing by a lamppost.
+
+The rabbit was crying.
+
+Screen 54 : Art - Question Mark
+"Oh no!" said SPACE FROG. "What's wrong? Why are you crying?"`
+
+Was there anything he could do to cheer up the rabbit?
+
+OFFER SOME SPACE FOOD
+TELL A JOKE
+
+Screen 55 : Art - Space Food
+SPACE FROG unwrapped the space food and stuck it out towards the rabbit.
+
+"Here! You might feel better if you eat something," said SPACE FROG.
+
+Screen 56 : Nothing 
+The rabbit looked from the space food, to SPACE FROG, to the space food <again>.
+
+<(They looked a little suspicious of the space food.)>
+
+"I'm good, thank you," replied the rabbit, who was still crying.
+
+Screen 57 : Nothing
+"Are you sure...? You look sad," responded SPACE FROG.
+
+"Oh, do you mean my tears? I'm just making tears for this lamppost," said the rabbit.
+
+"This lamppost?" repeated SPACE FROG. Why would a lamppost need tears?
+
+Screen 58 : Nothing
+"It'll be faster to show you," said the rabbit.
+
+They cupped their paws underneath their face, and their tears pooled together...
+
+To form a soft, glowing crystal of light. 
+
+Screen 59 : Blue Star
+"Is this a star...?" asked SPACE FROG, eyes wide with wonder.
+
+"A small one, but yes," said the rabbit with a smile. "You can have it if you like."
+
+Screen 60 : Nothing
+"But don't you need it for the lamppost?" asked SPACE FROG.
+
+"I'm waiting for the lamp to die out before putting in a new light," said the rabbit.
+
+"If you say so then!" SPACE FROG took the little star from the rabbit, who handed it over with a smile.
+
+Screen 61 : Art - Satchel 
+SPACE FROG put the little star inside his satchel.
+
+Then, he squeezed into his spaceship and flew back down to Earth.
+
+Screen 62 : Nothing
+
+After SPACE FROG landed, he went back home and took the star out of his satchel.
+
+It was very small for a <star>, and not very bright or sparkly.
+
+<(Honestly, you could call it a glowy rock and very few people would have known the difference.)>
+
+Screen 63 : Frog thinking of star
+But he had a nice little souvenir and a good story to go with it!
+
+SPACE FROG could go looking for brighter and sparklier stars tomorrow.
+
+THE END
