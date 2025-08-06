@@ -50,8 +50,6 @@ Bear has only 1 bottle of water on her. Bear wants to help but..
 SHARE IT (25% chance to save)
 KEEP IT
 
-
-
 =========SHARE IT============ (success)
 The water revived the turtle, he said "thanks , that brought me back alive. I thought I wouldn't see my grandson again." 
 
@@ -63,7 +61,32 @@ He was lucky , if not for bear's action today..
 
 "If not for your decision to spare water , I might not be able to live to see my grand grand grand son in the future. I will make sure he learns your name. Bearthmelow the third!" Turtle happily walking as fast as he could.
 
- 
+Soon they came into the entrance of a small opening. But it was too small for Bear to even enter.
+
+"I can't enter that!?" 
+
+"That's where I came from and I can get you water whenever you ask."
+
+Turtle looked around and picked a limestone pebble nearby the entrance.
+
+Turtle retched some of his guts on the pebble.
+
+"Just use this stone to summon me anytime.I will get you a container of our freshest spring water."
+
+"How... does this work?..."
+
+"I know my own mark when I <see> it..."
+
+<Actually turtle's home was just very close to the entrance of this opening but he just wanted to act mysterious in front of this youngin. Every pebble thrown this direction bothers his whole household.">
+
+"You saved my life when you barely knew me , give me a chance to repay you , kid."
+
+"Plop" Goes the turtle..
+
+
+Now the town has a new spot for gathering water while the danger is still present, with 2 sources instead of 1.
+
+<--The end-->
 
 =========SHARE IT============ (failed)
 
