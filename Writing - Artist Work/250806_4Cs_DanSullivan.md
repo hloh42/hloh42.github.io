@@ -54,7 +54,7 @@ A lot of leaders think that part of their role is not show that they're going th
 
 Innovation requires fear and excitement.
 
-Innovation is the electricity that's generated from the stress and the strain between afuture situation you've committed yourself to and not yet having the capability to achieve it.
+Innovation is the electricity that's generated from the stress and the strain between a future situation you've committed yourself to and not yet having the capability to achieve it.
 
 15.Living a life without courage just doesn't work. You want more capability and confidence, but you have to pay with commitment and courage.
 
