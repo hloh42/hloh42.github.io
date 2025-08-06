@@ -41,4 +41,25 @@ You've made yourself liable to somthing, but you haven't given yourself the reso
 
 11.What entrepreneurs do is voluntarily scare themselves into growth.The ones who voluntarily do it are always enormously more succcessful than the ones who don't because it becomes a skill: They have this skill of continually self-initating their own growth.
 
+12.When people say they admire  leadership, they're actually saying they value courage, because leaders are those who are willing to go into uncharted territory. They're willing to take a risk without a guarantee of success.
+Courage is the universal proof of growth.
+
+13.As human beings, we think we're going to be admired for our capability and our confidence, and we strive to hide our commitment and courage. But what's really meaningful and valuable to human beings isn't the payoff - it's the process we all go through. It's the knowledge of a shared experience.
+
+You're really at your most understandable as a human being in the commitment and courage stages, not in the capabilities and confidence stages.
+
+A lot of leaders think that part of their role is not show that they're going through periods of risk and courage because they think it's a weakness and a failure. But that's a mistake. We all want to grow, and courage is the proof that we are succeeding.
+
+14.Innovation occurs in the dynamic thinking zone between courage and capability. The moment you risk your past and present for the sake of a bigger and better future breakthrough, your brain instantly becomes creative, innovative and inventive. 
+
+Innovation requires fear and excitement.
+
+Innovation is the electricity that's generated from the stress and the strain between afuture situation you've committed yourself to and not yet having the capability to achieve it.
+
+15.Living a life without courage just doesn't work. You want more capability and confidence, but you have to pay with commitment and courage.
+
+16.It's not about making a general commitment. It has to be a specific commitment. It's not about a general sort of courage. It has to be a specific courage. Our brains don't respond to generalities. Everything must be specific. When human beings operate in an environment where everything is specific, it brings an enomorous level of reality.
+
+17.Commitment and courage must come first.
+And it's those who are willing to make those commitments, to take those risks, who gain the greatest capabilities and ultimately the confidence to keep making bigger breakthroughs.
 
