@@ -1,4 +1,5 @@
 baseurl = "https://hloh42.github.io/"
+publishDir = "content"
 languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
