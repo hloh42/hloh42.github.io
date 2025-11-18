@@ -4,8 +4,8 @@ contentdir = "content/post"
 languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
-relativeURLs = true
-canonifyURLS = false
+relativeURLs = false
+canonifyURLS = true
 
 [markup.goldmark.renderer]
   unsafe = true
