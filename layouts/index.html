@@ -1,18 +1,19 @@
-{{/* Random top viewed "daily" post */}}
-{{ $dailyPosts := where .Site.RegularPages "Params.tags" "intersect" (slice "daily") }}
-{{ $postsWithViews := where $dailyPosts "Params.views" "gt" 0 }}
-{{ $sortedByViews := sort $postsWithViews "Params.views" "desc" }}
-{{ $topPosts := first 5 $sortedByViews }}
-{{ $shuffled := shuffle $topPosts }}
-{{ $randomPost := index $shuffled 0 }}
+{{ define "main" }}
+  {{/* Your existing snippet here */}}
+  {{ $dailyPosts := where .Site.RegularPages "Params.tags" "intersect" (slice "daily") }}
+  {{ $postsWithViews := where $dailyPosts "Params.views" "gt" 0 }}
+  {{ $sortedByViews := sort $postsWithViews "Params.views" "desc" }}
+  {{ $topPosts := first 5 $sortedByViews }}
+  {{ $shuffled := shuffle $topPosts }}
+  {{ $randomPost := index $shuffled 0 }}
 
-{{ with $randomPost }}
-  <article>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>Views: {{ .Params.views }}</p>
-    <p>{{ .Summary }}</p>
-  </article>
-{{ else }}
-  <p>No daily posts with views found.</p>
+  {{ with $randomPost }}
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>Views: {{ .Params.views }}</p>
+      <p>{{ .Summary }}</p>
+    </article>
+  {{ else }}
+    <p>No daily posts with views found.</p>
+  {{ end }}
 {{ end }}
-
