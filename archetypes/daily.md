@@ -6,16 +6,15 @@ description: ""
 tags:
   - daily
   - writing
-collection: ""   # Optional for book organization
-chapter: ""             # Optional, for later book assembly
+collection: ""   
+chapter: ""      
+theme: ""         # Daily theme or prompt
+prompt: ""        # Writing prompt or question
+mood: ""          # Mood or reflection
+media: ""         # Media reference
+related: []       # Related posts or resources
+status: "idea"    # Progress status: idea, draft, final
 summary: ""
+quote: ""
 ---
-
-## Introduction
-
-
-
----
-
-Thanks for reading!
 
