@@ -1,6 +1,6 @@
 ---
 title: "{{ Learning stroke by stroke and slowly expanding the comfort zone of HUGO , writing and being familiar with work process and comfortable sharing myself as I am | title }}"
-date: {{ .Date }}
+date: {{ 2025-11-24T00:00:00Z }}
 draft: false
 description: ""
 tags:
