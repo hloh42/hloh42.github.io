@@ -16,5 +16,6 @@ related: []       # Related posts or resources
 status: "idea"    # Progress status: idea, draft, final
 summary: ""
 quote: ""
+type : "posts"
 ---
 
