@@ -12,6 +12,7 @@ canonifyURLS = true
 
 [params]
   contentTypeName = "posts"
+  gtm_id = "GTM-T99GWB69"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = false
