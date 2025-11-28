@@ -14,7 +14,7 @@ canonifyURLS = true
   unsafe = true
 
 [params]
-  contentTypeName = ["posts","daily"]
+  contentTypeName = "posts"
   gtm_id = "GTM-T99GWB69"
   ga_id = "G-5P7H0434GW"
   showMenuItems = 2
