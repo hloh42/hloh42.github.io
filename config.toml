@@ -7,12 +7,16 @@ pagination.pagerSize = 5
 relativeURLs = false
 canonifyURLS = true
 
+[build]
+  writeStats = true #Ensures Hugo processes partials
+
 [markup.goldmark.renderer]
   unsafe = true
 
 [params]
-  contentTypeName = "posts"
+  contentTypeName = ["posts","daily"]
   gtm_id = "GTM-T99GWB69"
+  ga_id = "G-5P7H0434GW"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = false
