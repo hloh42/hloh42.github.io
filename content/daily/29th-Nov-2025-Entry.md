@@ -1,7 +1,7 @@
 ---
 title: "29th Nov 2025 Entry"
 date: 2025-11-29T17:15:23+08:00
-draft: true
+draft: false
 description: ""
 tags:
   - daily
