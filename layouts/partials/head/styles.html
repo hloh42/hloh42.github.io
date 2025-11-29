@@ -1,7 +1,23 @@
-{{ $style := resources.Get "css/main.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+{{/* Theme CSS with fallback to local file */}}
+{{ $terminalCSS := resources.Get "css/terminal.css" | default (resources.GetRemote "https://raw.githubusercontent.com/panr/hugo-theme-terminal/master/static/css/terminal.css") }}
+{{ $terminal := $terminalCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $terminal.Permalink }}" integrity="{{ $terminal.Data.Integrity }}">
 
+{{/* Main CSS */}}
+{{ $mainCSS := resources.Get "css/main.css" }}
+{{ if $mainCSS }}
+  {{ $main := $mainCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}">
+{{ end }}
+
+{{/* Syntax highlighting (conditional) */}}
 {{ if .Site.Params.highlight }}
-{{ $syntax := resources.Get "css/syntax.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $syntax.Permalink }}" integrity="{{ $syntax.Data.Integrity }}">
+  {{ $syntax := resources.Get "css/syntax.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $syntax.Permalink }}" integrity="{{ $syntax.Data.Integrity }}">
+{{ end }}
+
+{{/* Custom CSS override */}}
+{{ if fileExists "static/css/custom.css" }}
+  {{ $custom := resources.Get "css/custom.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $custom.Permalink }}" integrity="{{ $custom.Data.Integrity }}">
 {{ end }}

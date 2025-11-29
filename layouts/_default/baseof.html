@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-<head>
+<head>  
   {{ partial "head/gtm" . }}
   {{ partial "head/ga" . }}
   {{ partial "head/meta" . }}
   {{ partial "head/styles" . }}
-  {{ block "head" . }}{{ end }}
+  {{ partial "head.html" . }}
 </head>
 <body>
   {{ partial "body/gtm-noscript" . }}
-  {{ partial "header" . }}
-  
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-
-  {{ partial "footer" . }}
+  {{ partial "header.html" . }}
+  <div class="container">
+    {{ block "main" . }}{{ end }} <!-- CONTENT -->
+  </div>
+  {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+  {{ end }}    <!-- FOOTER -->
+   <!-- {{ partial "scripts.html" . }}  THEME JS -->
 </body>
 </html>
