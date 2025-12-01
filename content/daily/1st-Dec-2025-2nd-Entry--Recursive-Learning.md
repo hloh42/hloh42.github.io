@@ -1,7 +1,7 @@
 ---
 title: "1st Dec 2025 2nd Entry  Recursive Learning"
 date: 2025-12-01T19:18:55+08:00
-draft: true
+draft: false
 description: ""
 tags:
   - daily
