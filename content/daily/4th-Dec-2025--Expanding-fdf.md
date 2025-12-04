@@ -46,7 +46,7 @@ Step by step
 ![fdf 1st render](/images/fdf/fdf_1st_render.png)
 
 Singapore map attempts
-[4th_attempt](/images/fdf/downloaded_from_4th_attempt.png)
+[4th_attempt](/images/fdf/downloaded_from_us_4th_attempt.png)
 [heightmap](/images/fdf/singapore_heightmap_extracted.png)
 
 Resources used
