@@ -46,8 +46,8 @@ Step by step
 ![fdf 1st render](/images/fdf/fdf_1st_render.png)
 
 Singapore map attempts
-[4th_attempt](/images/fdf/downloaded_from_us_4th_attempt.png)
-[heightmap](/images/fdf/singapore_heightmap_extracted.png)
+![4th_attempt](/images/fdf/downloaded_from_us_4th_attempt.png)
+![heightmap](/images/fdf/singapore_heightmap_extracted.png)
 
 Resources used
 https://www.arcgis.com/apps/View/index.html?appid=1854e92f5a334bbd98c0071e680522dc
