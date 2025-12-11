@@ -43,7 +43,7 @@ If the script breaks tomorrow , I might struggle a little to fix it.
 But this is the trade-off confronting each and every one of us right now.
 And I wonder why worthy is this trade-off for the worker and for the company in exchange for this speed and whether this is healthy for anyone in the longer run.
 
-But for now I just need to run 2 commands and the work is done.
+But for now I just need to run 2 commands and the work is done.  
 python3 compile_book.py && pandoc compiled_draft.md -o completed_work.pdf
 
 
