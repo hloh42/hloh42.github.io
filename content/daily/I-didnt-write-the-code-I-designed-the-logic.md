@@ -30,18 +30,18 @@ I thought about my business needs as a business owner and what I need from my bu
 
 But does this count as learning? I would say not because nothing struggled in this process and nothing much has entered my brain other than the required inputs and outputs.
 
-My role as a business owner has been simplified a lot but my role as a developer is shifting...
+My role as a business owner has been simplified a lot but my role as a developer is shifting..
 
 My input - "I want to make this content structure automated by identifying it by tags."
 
 AI Input - import os , ...
 
-I didn't struggle with the process , I envisioned the end and start point and gave the instructions to the AI.
+I didn't struggle with the process , I envisioned the end and start point and gave the instructions to the AI.    
 
-If the script breaks tomorrow , I might struggle a little to fix it. 
+If the script breaks tomorrow , I might struggle a little to fix it.   
 
-But this is the trade-off confronting each and every one of us right now.
-And I wonder why worthy is this trade-off for the worker and for the company in exchange for this speed and whether this is healthy for anyone in the longer run.
+But this is the trade-off confronting each and every one of us right now.  
+And I wonder how worthy is this trade-off for the worker and for the company in exchange for this speed and whether this is healthy for anyone in the longer run.  
 
 But for now I just need to run 2 commands and the work is done.  
 python3 compile_book.py && pandoc compiled_draft.md -o completed_work.pdf
