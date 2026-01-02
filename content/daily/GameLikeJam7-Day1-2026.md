@@ -26,11 +26,11 @@ And the theme is Rogue (1983).
 
 My experiment engine of choice is raylib.
 
-![WebCompilationExperiment](/GameLikeJam7/1st_build_jan2_morning.png)
+![WebCompilationExperiment](/images/GameLikeJam7/1st_build_jan2_morning.png)
 Excitement builds while I see my 1st web assembly compilation.
-![python3 --localhost build](/GameLikeJam7/1st_build_successful.png)
+![python3 --localhost build](/images/GameLikeJam7/1st_build_successful.png)
 1st python 3 local build , viewed on local browser
-![itch.io successful test submission](/GameLikeJam7/1st_build_successful_upload.png)
+![itch.io successful test submission](/images/GameLikeJam7/1st_build_successful_upload.png)
 It's really working!!!!! on actual itch.io draft page. 
 
 My 1st gamejam I tried to be ambitious and have a c# solution that works for both unity and godot4 and failed at the finishing line this time , I won't be making that mistake again.
