@@ -1,7 +1,7 @@
 ---
 title: "GameLikeJam7 Day1 2026"
 date: 2026-01-02T22:43:17+08:00
-draft: true
+draft: false
 description: ""
 tags:
   - daily
